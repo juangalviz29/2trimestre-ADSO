@@ -1,0 +1,21 @@
+{
+  "name": "array-set-and-map-exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ej5": "ts-node src/ejercicio5.ts",
+    "ej6": "ts-node src/ejercicio6.ts",
+    "ej7": "ts-node src/ejercicio7.ts",
+    "ej8": "ts-node src/ejercicio8.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

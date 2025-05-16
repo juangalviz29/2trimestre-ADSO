@@ -1,0 +1,21 @@
+{
+  "name": "ejercicios_typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "ej1": "ts-node src/ejercicio1-citas.ts",
+      "ej2": "ts-node src/ejercicio2-eventos.ts",
+      "ej3": "ts-node src/ejercicio3-comandas.ts",
+      "ej4": "ts-node src/ejercicio4-equipos.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.15.17",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

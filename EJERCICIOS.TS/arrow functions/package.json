@@ -1,0 +1,22 @@
+{
+  "name": "arrow-functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ej1": "ts-node src/ejercicio1.ts",
+    "ej2": "ts-node src/ejercicio2.ts",
+    "ej3": "ts-node src/ejercicio3.ts",
+    "ej4": "ts-node src/ejercicio4.ts",
+    "ej5": "ts-node src/ejercicio5.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

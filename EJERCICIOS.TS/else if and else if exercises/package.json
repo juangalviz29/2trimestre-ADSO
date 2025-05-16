@@ -1,0 +1,28 @@
+{
+  "name": "else-if-and-else-if-exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ej1": "ts-node src/1_edad.ts",
+    "ej2": "ts-node src/2_numero.ts",
+    "ej3": "ts-node src/3_cine.ts",
+    "ej4": "ts-node src/4_gym.ts",
+    "ej5": "ts-node src/5_celular.ts",
+    "ej6": "ts-node src/6_velocidad.ts",
+    "ej7": "ts-node src/7_reserva.ts",
+    "ej8": "ts-node src/8_club.ts",
+    "ej9": "ts-node src/9_luz.ts",
+    "ej10": "ts-node src/10_horno.ts",
+    "ej11": "ts-node src/11_actividades.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}

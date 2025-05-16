@@ -1,0 +1,31 @@
+{
+  "name": "if-exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "1": "ts-node src/ayudamensual.ts",
+    "2": "ts-node src/calificaciones.ts",
+    "3": "ts-node src/carros.ts",
+    "4": "ts-node src/computadora.ts",
+    "5": "ts-node src/fotocopiadora.ts",
+    "6": "ts-node src/imparopar.ts",
+    "7": "ts-node src/lavadora.ts",
+    "8": "ts-node src/mensualidadgym.ts",
+    "9": "ts-node src/numeromayor.ts",
+    "10": "ts-node src/operadores.ts",
+    "11": "ts-node src/paroimpar.ts",
+    "12": "ts-node src/salario.ts",
+    "13": "ts-node src/sandwich.ts",
+    "14": "ts-node src/triangulo.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.15.18",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
